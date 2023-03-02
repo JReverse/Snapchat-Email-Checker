@@ -15,3 +15,6 @@ POST
 
 # NOTES
 Shedding light on this unsecure endpoint
+
+
+![image](https://user-images.githubusercontent.com/40630518/222389645-2ac90ab9-a9b1-47d1-9d0c-b8ecc6963d4b.png)
